@@ -1,5 +1,5 @@
-minimo = input(int("inserisci il minimo"))
-massimo = input(int("inserisci il massimo"))
+minimo = int(input("inserisci il minimo"))
+massimo = int(input("inserisci il massimo"))
 somma = 0
 lista = []
 while minimo < massimo:
