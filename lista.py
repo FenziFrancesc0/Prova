@@ -11,3 +11,4 @@ while minimo < massimo:
     minimo += 1
 print(somma)
 print(lista)
+prova
